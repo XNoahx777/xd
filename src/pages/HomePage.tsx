@@ -40,14 +40,14 @@ const HomePage: React.FC = () => {
       title: 'Leaf Collection',
       description: 'Professional leaf removal services to keep your property clean and tidy during fall.',
       icon: 'Wind',
-      imageUrl: 'https://images.pexels.com/photos/1464625/pexels-photo-1464625.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+      imageUrl: 'https://images.unsplash.com/photo-1641317113981-368c3ba20627?q=80&w=1467&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
     },
     {
       id: 6,
       title: 'Snow Removal',
       description: 'Reliable snow removal services to keep your property safe and accessible during winter.',
       icon: 'Cloud',
-      imageUrl: 'https://images.pexels.com/photos/751373/pexels-photo-751373.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+      imageUrl: 'https://images.pexels.com/photos/2479632/pexels-photo-2479632.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1%201x,%20https://images.pexels.com/photos/2479632/pexels-photo-2479632.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2%202x',
     },
   ];
 
